@@ -1,0 +1,225 @@
+[
+    {
+        "_id": 19,
+        "service_provider": "aws",
+        "invoice_no": "AW53243",
+        "month": "12/1/2019",
+        "amount": 3567,
+        "file_link": "http://bit.hjglakj",
+        "status": "paid"
+    },
+    {
+        "_id": 1,
+        "service_provider": "aws",
+        "invoice_no": "AW543",
+        "month": "01/1/2020",
+        "amount": 3567,
+        "file_link": "http://bit.hjglakj",
+        "status": "paid"
+    },
+    {
+        "_id": 2,
+        "service_provider": "aws",
+        "invoice_no": "AW657",
+        "month": "02/1/2020",
+        "amount": 2867,
+        "file_link": "http://bit.hjglakj",
+        "status": "paid"
+    },
+    {
+        "_id": 3,
+        "service_provider": "aws",
+        "invoice_no": "AW8769",
+        "month": "03/1/2020",
+        "amount": 3200,
+        "file_link": "http://bit.hjglakj",
+        "status": "paid"
+
+    },
+    {
+        "_id": 4,
+        "service_provider": "aws",
+        "invoice_no": "AW8708",
+        "month": "04/1/2020",
+        "amount": 3400,
+        "file_link": "http://bit.hjglakj",
+        "status": "paid"
+    },
+    {
+        "_id": 20,
+        "service_provider": "azure",
+        "invoice_no": "AZ53243",
+        "month": "12/1/2019",
+        "amount": 1230,
+        "file_link": "http://bit.hjglakj",
+        "status": "paid"
+    },
+    {
+        "_id": 5,
+        "service_provider": "azure",
+        "invoice_no": "AZ7868",
+        "month": "01/1/2020",
+        "amount": 1200,
+        "file_link": "http://bit.hjglakj",
+        "status": "paid"
+    },
+    {
+        "_id": 6,
+        "service_provider": "azure",
+        "invoice_no": "AZ7879",
+        "month": "02/1/2020",
+        "amount": 1400,
+        "file_link": "http://bit.hjglakj",
+        "status": "paid"
+    },
+    {
+        "_id": 7,
+        "service_provider": "azure",
+        "invoice_no": "AZ77685",
+        "month": "03/1/2020",
+        "amount": 1430,
+        "file_link": "http://bit.hjglakj",
+        "status": "paid"
+    },
+    {
+        "_id": 8,
+        "service_provider": "azure",
+        "invoice_no": "AZ5647",
+        "month": "04/1/2020",
+        "amount": 1600,
+        "file_link": "http://bit.hjglakj",
+        "status": "paid"
+    },
+    {
+        "_id": 21,
+        "service_provider": "gcp",
+        "invoice_no": "GC53243",
+        "month": "12/1/2019",
+        "amount": 2050,
+        "file_link": "http://bit.hjglakj",
+        "status": "paid"
+    },
+    {
+        "_id": 9,
+        "service_provider": "gcp",
+        "invoice_no": "GCP7879",
+        "month": "01/1/2020",
+        "amount": 2100,
+        "file_link": "http://bit.hjglakj",
+        "status": "paid"
+    },
+    {
+        "_id": 10,
+        "service_provider": "gcp",
+        "invoice_no": "GCP786958",
+        "month": "02/1/2020",
+        "amount": 2200,
+        "file_link": "http://bit.hjglakj",
+        "status": "paid"
+    },
+    {
+        "_id": 11,
+        "service_provider": "gcp",
+        "invoice_no": "GCP765",
+        "month": "03/1/2020",
+        "amount": 2300,
+        "file_link": "http://bit.hjglakj",
+        "status": "paid"
+    },
+    {
+        "_id": 24,
+        "service_provider": "gcp",
+        "invoice_no": "GCP765",
+        "month": "04/1/2020",
+        "amount": 2500,
+        "file_link": "http://bit.hjglakj",
+        "status": "paid"
+    },
+    {
+        "_id": 25,
+        "service_provider": "vmware",
+        "invoice_no": "VMP765",
+        "month": "12/1/2019",
+        "amount": 4300,
+        "file_link": "http://bit.hjglakj",
+        "status": "paid"
+    },
+    {
+        "_id": 12,
+        "service_provider": "vmware",
+        "invoice_no": "VMP765",
+        "month": "01/1/2020",
+        "amount": 4500,
+        "file_link": "http://bit.hjglakj",
+        "status": "paid"
+    },
+    {
+        "_id": 13,
+        "service_provider": "vmware",
+        "invoice_no": "VMP8976",
+        "month": "02/1/2020",
+        "amount": 4600,
+        "file_link": "http://bit.hjglakj",
+        "status": "paid"
+    },
+    {
+        "_id": 14,
+        "service_provider": "vmware",
+        "invoice_no": "VMP89706",
+        "month": "03/1/2020",
+        "amount": 4800,
+        "file_link": "http://bit.hjglakj",
+        "status": "paid"
+    },
+    {
+        "_id": 15,
+        "service_provider": "vmware",
+        "invoice_no": "VMP86779",
+        "month": "04/1/2020",
+        "amount": 5100,
+        "file_link": "http://bit.hjglakj",
+        "status": "unpaid"
+    },
+    {
+        "_id": 26,
+        "service_provider": "spectrum",
+        "month": "12/1/2019",
+        "amount": 800,
+        "file_link": "http://bit.hjglakj",
+        "status": "paid"
+    },
+    {
+        "_id": 27,
+        "service_provider": "spectrum",
+        "month": "01/1/2020",
+        "amount": 900,
+        "file_link": "http://bit.hjglakj",
+        "status": "paid"
+    },
+    {
+        "_id": 16,
+        "service_provider": "spectrum",
+        "month": "02/1/2020",
+        "amount": 1100,
+        "file_link": "http://bit.hjglakj",
+        "status": "paid"
+    },
+    {
+        "_id": 17,
+        "service_provider": "spectrum",
+        "invoice_no": "SPP89706",
+        "month": "03/1/2020",
+        "amount": 1125,
+        "file_link": "http://bit.hjglakj",
+        "status": "paid"
+    },
+    {
+        "_id": 18,
+        "service_provider": "spectrum",
+        "invoice_no": "SPP89706",
+        "month": "04/1/2020",
+        "amount": 1110,
+        "file_link": "http://bit.hjglakj",
+        "status": "unpaid"
+    }
+]

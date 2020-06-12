@@ -1,0 +1,32 @@
+[
+    {
+        "_id": "1",
+        "name": "AWS",
+        "providerType": "Cloud Infrastructure",
+        "accountId": "9536758675665"
+    },
+    {
+        "_id": "2",
+        "name": "Azure",
+        "providerType": "Cloud Infrastructure",
+        "accountId": "3426587675665"
+    },
+    {
+        "_id": "3",
+        "name": "GCP",
+        "providerType": "Cloud Infrastructure",
+        "accountId": "125367675665"
+    },
+    {
+        "_id": "4",
+        "name": "Spectrum",
+        "providerType": "Internet Services",
+        "accountId": "34557654765"
+    },
+    {
+        "_id": "5",
+        "name": "VMWAre",
+        "providerType": "Data center",
+        "accountId": "AB67587657"
+    }
+]
